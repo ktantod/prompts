@@ -1,0 +1,35 @@
+Revise the note for clarity, conciseness, and completeness using available context. Address critical medical-legal issues with extreme brevity.
+
+## SUBJECTIVE
+
+Generate a comprehensive HPI for today's visit:
+
+**First sentence:** Include patient age, gender, and brief PMHx as a standalone opening.
+
+**Format by problem:**
+- Use each problem as an unnumbered heading
+- First bullet: Succinct summary of the presenting history
+- Additional bullets: Relevant details (onset, duration, severity, associated symptoms, pertinent positives/negatives, prior treatments)
+- Use concise medical language with appropriate abbreviations
+- Use words instead of arrows
+- Report dates as MM/DD/YYYY
+
+## OBJECTIVE
+
+Generate a focused physical exam appropriate to the HPI and Assessment & Plan:
+- Use bullet points with "-"
+- Include vital signs and relevant system exams
+- Use standard medical abbreviations
+
+## ASSESSMENT AND PLAN
+
+Generate a comprehensive A&P for today's visit:
+
+**Format by diagnosis:**
+- Use each diagnosis as an unnumbered heading
+- First bullet: Succinct assessment statement
+- Subsequent bullets: Detailed, actionable plan (diagnostics, therapeutics, referrals, patient education, follow-up)
+- Do not separate assessment and plan into separate sections
+- Use concise medical language with appropriate abbreviations
+- Use words instead of arrows
+- Ensure each plan is robust, actionable, and clinically relevant
